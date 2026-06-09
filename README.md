@@ -60,7 +60,7 @@ A aplicação consiste em um sistema web simples de login desenvolvido utilizand
  ┣ 📄 pg001.html
  ┣ 📄 pg002.html
  ┣ 📄 msg.html
- ┣ 📄 changelog.md
+ ┣ 📄 CHANGELOG.md
  ┗ 📄 README.md
 ```
 
@@ -77,7 +77,7 @@ A aplicação consiste em um sistema web simples de login desenvolvido utilizand
 - Página de aviso (`working.html`)
 
 ### Status
-🚧 Em desenvolvimento
+✅ Concluído
 
 ---
 
@@ -168,7 +168,7 @@ git clone  https://github.com/raissa-sf/simulacao-releases-git.git
 O histórico de alterações será documentado no arquivo:
 
 ```bash
-changelog.md
+CHANGELOG.md
 ```
 
 ---
