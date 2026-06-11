@@ -89,7 +89,7 @@ A aplicação consiste em um sistema web simples de login desenvolvido utilizand
 - Página inicial do administrador (`pg001.html`)
 
 ### Status
-🚧 Em desenvolvimento
+✅ Concluído
 
 ---
 
