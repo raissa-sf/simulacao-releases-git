@@ -2,6 +2,26 @@
 
 Todas as mudanças notáveis deste projeto serão documentadas neste arquivo.
 
+## [1.0.0] - 2026-06-14
+
+### Adicionado
+
+* Página inicial para usuário operador (`pg002.html`).
+* Página de mensagens/erro (`msg.html`).
+* Validação do campo usuário na tela de login.
+* Redirecionamento para a página do administrador quando o usuário informado for `admin`.
+* Redirecionamento para a página do operador para qualquer outro usuário válido.
+
+### Alterado
+
+* Página de login (`index.html`) atualizada para implementar as regras de navegação do Release 5.3.
+* Fluxo de autenticação ajustado para validar apenas o campo usuário.
+* Página inicial do administrador (`pg001.html`) integrada ao novo fluxo de navegação.
+
+### Release
+
+* Conclusão do Release 5.3.
+
 ## [0.2.0] - 2026-06-11
 
 ### Adicionado
@@ -35,10 +55,3 @@ Todas as mudanças notáveis deste projeto serão documentadas neste arquivo.
 ### Release
 
 * Conclusão do Release 5.1.
-* Conclusão do Release 5.2.
-
-## [Unreleased]
-
-### Planejado
-
-* Implementação do Release 5.3.
