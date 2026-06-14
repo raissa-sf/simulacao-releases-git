@@ -105,7 +105,7 @@ A aplicação consiste em um sistema web simples de login desenvolvido utilizand
 - Atualização da página de login com consistência
 
 ### Status
-🚧 Em desenvolvimento
+✅ Concluído
 
 ---
 
