@@ -175,7 +175,7 @@ CHANGELOG.md
 
 ## 📌 Status do Projeto
 
-🚧 Projeto acadêmico em desenvolvimento.
+✅ Projeto acadêmico concluído.
 
 ---
 
